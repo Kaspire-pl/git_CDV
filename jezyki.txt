@@ -1,2 +1,1 @@
-javascript
-jezyki.txt
+test
